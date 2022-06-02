@@ -14,3 +14,8 @@ dependencies {
 
 ### Getting Started
 [Learn More](https://developers.google.com/ml-kit/language/translation/android#java)
+## Made By:
+AMISH KUMAR(201B037)
+AKSHAY TYAGI(201B029)
+AMAN KUMAR BADAL(201B036)
+
